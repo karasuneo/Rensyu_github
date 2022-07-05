@@ -1,0 +1,2 @@
+# Rensyu_github
+VScodeでGitしよう
